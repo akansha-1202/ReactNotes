@@ -1,5 +1,3 @@
-**React Roadmap doc:**
- https://docs.google.com/spreadsheets/d/15SA5agTJ-kksNk3xyVXWx7DyptlyAQiDqwVueUkpVuE/edit#gid=0
 
 # Topics
 
